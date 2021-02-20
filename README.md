@@ -1,4 +1,4 @@
-#Netflix clone - Digital Innovation One
+# Netflix clone - Digital Innovation One
 
 Este projeto foi criado no Bootcamp HTML Web Developer da [Digital Innovation One](https://web.digitalinnovation.one/).
 
