@@ -12,7 +12,7 @@ Foi recriada a página inicial da *Netflix*, utilizando os conceitos aprendidos 
 
 ## Preview
 
-[Clique aqui](https://ludsilva.github.io/Netflix-clone/)
+![Preview](https://github.com/ludsilva/Netflix-clone/blob/master/img/print.png)
 
 ## Licença
 
